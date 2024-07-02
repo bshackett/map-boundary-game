@@ -1,0 +1,25 @@
+body {
+    background-color: #27272c;
+    color: white;
+}
+
+#canvas-and-instructions {
+    display: grid;
+    grid-template-columns: 650px 1fr;
+}
+
+#main {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+#borders-canvas {
+	border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+#region-selector, #projection-selector {
+    width: 600px;
+    margin-bottom: 20px;
+}
+
