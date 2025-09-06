@@ -3,7 +3,7 @@ Try to draw the outline of a country, and then check to see how accurate you wer
 
 Possibly less of a game, and more of a studying tool.
 
-Have fun: https://benh4ckett.github.io/map-boundary-game/
+Have fun: https://bshackett.github.io/map-boundary-game/
 
 ## Local Development
 Since the project uses javascript modules, a web server must be used locally that can serve the javascript files. (You can't just spin up `file:///path/to/index.html` in a browser).  
